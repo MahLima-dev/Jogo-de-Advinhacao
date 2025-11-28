@@ -41,7 +41,7 @@ input{
     border: 1px solid #ccc;
 }
 button{
-    display: inline-block block;
+    display: inline-block;
     margin: 40px auto;
     padding: 12px ;
     width: 150px;
